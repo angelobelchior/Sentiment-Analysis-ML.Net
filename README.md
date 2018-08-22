@@ -1,6 +1,6 @@
 # Análise de sentimentos usando o ML.Net
 
-[ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) é um framework Open Source e Cross-Platform de Machine Learning feito para .Net.
+[ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) é um framework Open Source e Cross-Platform de Machine Learning feito para .Net criado pela Microsoft.
 
 Esse framework está em desenvolvimento.
 
